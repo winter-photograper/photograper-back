@@ -3,7 +3,7 @@ layout: post
 title: Thomas看看世界
 date: 2020-06-14 14:03
 comments: true
-tags: [滨田英明,人像,儿童,摄影师]
+tags: [风光,摄影师]
 brief: [摄影师]
 reward: true
 categories: 摄影师
