@@ -120,7 +120,7 @@ encrypt: # hexo-blog-encrypt
 lazyload:
   enable: true
   onlypost: false
-  loadingImg: # eg /images/loading.gif 
+  loadingImg: /a.gif  # eg /images/loading.gif 
 
 
 
