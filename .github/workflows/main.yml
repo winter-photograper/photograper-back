@@ -48,6 +48,7 @@ jobs:
       run: |
         # publish
         hexo generate && hexo deploy # 执行部署程序    
+        
     - name: Vercel Action
       # You may pin to the exact commit or the version.
       # uses: amondnet/vercel-action@77cb0ce3642a451f7f18d63821c0e26f7adead9a
@@ -66,5 +67,3 @@ jobs:
         vercel-project-id: ${{ secrets.PROJECT_ID}} # optional
         # Vercel CLI 17+, ❗️  The `name` property in vercel.json is deprecated (https://zeit.ink/5F)
         vercel-org-id: ${{ secrets.ORG_ID}} # optional
-        # zeit.co token
-        zeit-token: ${{ secrets.VERCEL_TOKEN }}    
