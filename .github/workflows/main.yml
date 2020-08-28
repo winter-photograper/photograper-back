@@ -60,7 +60,7 @@ jobs:
         # if you want to comment on pr and commit, set token
         github-token: ${{ secrets.OP_TOKEN }} # optional
         # if you want to create github deployment, set true, default: false
-        github-deployment: false# optional, default is false
+        github-deployment: false # optional, default is false
         # the working directory
         working-directory: ./ # optional
         # Vercel CLI 17+, ❗️  The `name` property in vercel.json is deprecated (https://zeit.ink/5F)
