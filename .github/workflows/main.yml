@@ -67,3 +67,4 @@ jobs:
         vercel-project-id: ${{ secrets.PROJECT_ID}} # optional
         # Vercel CLI 17+, ❗️  The `name` property in vercel.json is deprecated (https://zeit.ink/5F)
         vercel-org-id: ${{ secrets.ORG_ID}} # optional
+        vercel-args: '--prod'
