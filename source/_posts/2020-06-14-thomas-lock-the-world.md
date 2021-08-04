@@ -7,7 +7,7 @@ tags: [风光,摄影师]
 brief: [摄影师]
 reward: true
 categories: 摄影师
-cover_index: http://img.winterchen.com/IMG_3725的副本.JPG
+cover_index: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628054077666708.jpg
 ---
 
 ## 简介
@@ -17,25 +17,25 @@ cover_index: http://img.winterchen.com/IMG_3725的副本.JPG
 
 ## 作品
 
-![](http://img.winterchen.com/IMG_3725.JPG)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628054077776707.jpg)
 
-![](http://img.winterchen.com/IMG_3723.JPG)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628054077917708.jpg)
 
-![](http://img.winterchen.com/IMG_3724.JPG)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628054078146712.jpg)
 
-![](http://img.winterchen.com/IMG_3726.JPG)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628054078316994.jpg)
 
-![](http://img.winterchen.com/IMG_3727.JPG)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628054078559848.jpg)
 
-![](http://img.winterchen.com/IMG_3728.JPG)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628054078755709.jpg)
 
-![](http://img.winterchen.com/IMG_3729.JPG)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628054078903705.jpg)
 
-![](http://img.winterchen.com/IMG_3730.JPG)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628054079107839.jpg)
 
-![](http://img.winterchen.com/IMG_3731.JPG)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628054079328639.jpg)
 
-![](http://img.winterchen.com/IMG_3732.JPG)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628054079458847.jpg)
 
 
 
